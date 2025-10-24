@@ -8,10 +8,10 @@ Os exercícios são organizados em pastas individuais, cada uma contendo seu pr�
 
 ##  Exercícios
 
-| Nº | Nome do Exercício | Pasta                     |
-|---:|-------------------|---------------------------|
-| 01 | Média de Notas    | `exercicio01-media-notas` |
-| 02 |                   |                           |
+| Nº | Nome do Exercício        | Pasta                             |
+|---:|--------------------------|-----------------------------------|
+| 01 | Média de Notas           | `exercicio01-media-notas`         |
+| 02 | Conversor de Medidas     | `exercicio02-conversao-m-para-cm` |
 
 
 
