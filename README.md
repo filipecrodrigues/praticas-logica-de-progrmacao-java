@@ -13,7 +13,7 @@ Os exercícios são organizados em pastas individuais, cada uma contendo seu pr�
 | 01 | Média de Notas       | `exercicio01-media-notas`         |
 | 02 | Conversor de Medidas | `exercicio02-conversao-m-para-cm` |
 | 03 | Par ou Impar         | `exercicio03-par-ou-impar `       |
-| 04 |                      | ` `                               |
+| 04 | Maior Número         | `exercicio04-maior-numero`        |
 | 05 |                      | ` `                               |
 | 06 |                      | ` `                               |
 | 07 |                      | ` `                               |
@@ -37,7 +37,7 @@ Os exercícios são organizados em pastas individuais, cada uma contendo seu pr�
 
 ##  Tecnologias utilizadas
 
-- Java 21 (ou versão que estiver utilizando)
+- Java 25,24,21,17,8 (ou versão que estiver utilizando)
 - IntelliJ IDEA / VS Code
 - Git e GitHub como controle de versão e portfólio
 
